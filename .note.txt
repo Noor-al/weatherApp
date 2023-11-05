@@ -1,0 +1,2 @@
+** replace the api before pushing to the github
+const apiKey = "dd1d1e5353fc26c98fbc69d82a0dbc6c" 
